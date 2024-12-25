@@ -1,0 +1,25 @@
+{
+    "name": "imreiter-photogrammetry",
+    "version": "1.0.0",
+    "description": "imreiter - Photogrammetry website",
+    "main": "index.js",
+    "scripts": {
+      "start": "http-server -p 8080",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/username/imreiter-photogrammetry.git"
+    },
+    "keywords": [
+      "photogrammetry",
+      "imreiter",
+      "website"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+      "http-server": "^0.12.3"
+    }
+  }
